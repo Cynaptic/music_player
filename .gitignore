@@ -1,0 +1,43 @@
+# Documentation (private)
+doc/
+
+# Build outputs
+output/
+outputs/
+obj_dir/
+
+# Compiled files
+*.o
+*.a
+*.exe
+*.out
+
+# Verilator
+*.vcd
+*.fst
+
+# Audio
+*.wav
+*.mp3
+
+# Typst
+*.pdf
+
+# Yosys
+*.blif
+*.json
+*.dot
+
+# Editor temp files
+*.swp
+*.swo
+*~
+*.kate-swp
+.*.kate-swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Scripts
+deploy.sh
