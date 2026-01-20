@@ -1,4 +1,4 @@
-# Documentation (private)
+#Documentation (private)
 doc/
 
 # Build outputs
@@ -41,3 +41,7 @@ Thumbs.db
 
 # Scripts
 deploy.sh
+
+#DevBox
+.devbox/
+!devbox.json
